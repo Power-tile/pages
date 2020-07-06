@@ -1,0 +1,15 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": "https://github.com/Power-tile/pages.git",
+  "author": "Power_tile <hejizheng2004@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "view-design": "^4.3.1",
+    "vue": "^2.6.11"
+  }
+}
